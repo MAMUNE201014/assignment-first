@@ -1,0 +1,76 @@
+body {
+    font-family: 'Poppins', sans-serif; 
+
+}
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+p {
+    text-align: justify;
+    font-size: medium;
+}
+.flex-container {
+    display:  flex;
+    
+   
+}
+.mission {
+   
+    width: 40%;
+    background-image: url(mission-2022-main/images/shapes/shape-5.png);
+    padding: 5%;
+}
+.images img {
+    
+    width: 30%;
+}
+.navy-blue {
+    color: navy;
+}
+.button {
+    
+    background-image: linear-gradient(tomato, black);
+    color: white;
+    font-size: larger;
+    font-weight: 400px;
+    text-decoration: none;
+    padding: 15px 35px;
+    border-radius: 5%;
+}
+.flex-container{
+    
+    display: flex;
+    /* width: 50%;  */
+    
+}
+.mission-1 {
+    background-image: url(mission-2022-main/images/shapes/shape-4.png);
+    background-repeat: no repeat;
+    width: 50%;
+    padding: 5%;
+}
+.box-model {
+    display: flex;
+    width: 33%;
+    color: aliceblue;
+            background-color: hotpink;
+            font-size: 20px;
+            border: 5px solid yellow;
+            border-radius:25px;
+          
+            margin: 10px auto;
+            padding: 20px;
+            background-image: url(mission-2022-main/images/shapes/shape-6.png);
+        }
+        footer {
+            
+            color: maroon;
+            text-emphasis-position: center;
+        }
+        footer p  {
+            text-align: center;
+        }
+        footer h3 {
+            text-align: center;
+        }
